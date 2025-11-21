@@ -33,15 +33,15 @@ QA Analyst | Technology Analyst | IT Analyst | Business Systems Analyst
 | Deliverable | Description |
 |-------------|------------|
 | **Test Plan** | Comprehensive plan covering scope, testing types, entry/exit criteria, and tools |
-| **Test Cases** | 10+ functional, usability, and responsive test scenarios |
-| **Defect Reports** | 5+ defects with severity, priority, reproduction steps, and business impact |
+| **Test Cases** | 10 functional, usability, and responsive test scenarios |
+| **Defect Reports** | 7 defects with severity, priority, reproduction steps, and business impact |
 | **Selenium Script** | Automated login test validating critical workflow |
 
 ---
 
 ## 📝 Resume-Ready Achievements
-- Developed and executed **10+ test cases** for web application functionality, usability, and cross-browser compatibility  
-- Logged and analyzed **5+ defects**, including severity, priority, and reproducibility  
+- Developed and executed **10 test cases** for web application functionality, usability, and cross-browser compatibility  
+- Logged and analyzed **7 defects**, including severity, priority, and reproducibility  
 - Built **Selenium automation scripts** to validate login functionality, demonstrating technical proficiency  
 - Applied **analytical thinking** to identify risks and recommend improvements  
 - Used **Jira/GitHub Issues** to track defects and maintain professional QA documentation  
