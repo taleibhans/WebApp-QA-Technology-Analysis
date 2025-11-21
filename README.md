@@ -1,7 +1,7 @@
 
 # Web Application QA & Technology Analysis
 
-Author : Talei Ibhaenebhor
+Author : Talei Ibhanesebhor
 
 ## Project Overview
 This project demonstrates an **end-to-end QA and Technology Analyst workflow** for a web application. It covers **test planning, test case creation, defect tracking, and basic automation**, showcasing skills relevant for:
