@@ -1,4 +1,4 @@
-# Real-World Defect Reports – Web Application QA & Technology Analysis**
+# **Real-World Defect Reports – Web Application QA & Technology Analysis**
 
 | **Defect ID** | **Summary**                                                         | **Severity** | **Priority** | **Steps to Reproduce**                                                                        | **Expected Result**                                     | **Actual Result**                                 | **Business Impact**                                    | **Status** |
 | ------------- | ------------------------------------------------------------------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------ | ---------- |
