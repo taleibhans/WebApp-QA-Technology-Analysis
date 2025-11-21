@@ -12,8 +12,10 @@ This project showcases a **professional QA workflow** for a web application, inc
 - **Test Planning:** Defining scope, approach, and entry/exit criteria  
 - **Manual Testing:** Functional, usability, responsive, and cross-browser testing  
 - **Defect Tracking:** Logging, prioritizing, and analyzing bugs with actionable insights  
-- **Automation:** Basic Selenium scripts to automate critical workflows  
-
+- **Automation:** Basic Selenium scripts to automate critical workflows
+- 
+**Target Roles:**  
+QA Analyst | Technology Analyst | IT Analyst | Business Systems Analyst
 
 ---
 
