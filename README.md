@@ -1,45 +1,46 @@
-
-# Web Application QA & Technology Analysis
+# 🌐 Web Application QA & Technology Analysis
 
 Author : Talei Ibhanesebhor
 
-## Project Overview
-This project demonstrates an **end-to-end QA and Technology Analyst workflow** for a web application. It covers **test planning, test case creation, defect tracking, and basic automation**, showcasing skills relevant for:
-
-- QA Analyst  
-- Technology Analyst  
-- IT Analyst  
-- Business Systems Analyst  
-
-The goal is to **validate web application functionality, usability, and reliability**, while demonstrating proficiency in professional QA processes and automation basics.
+> End-to-end QA and Technology Analyst project demonstrating testing, defect tracking, and automation skills for early-career tech roles.
 
 ---
 
-## Skills Highlighted
+## 🚀 Project Overview
+This project showcases a **professional QA workflow** for a web application, including:
+
+- **Test Planning:** Defining scope, approach, and entry/exit criteria  
 - **Manual Testing:** Functional, usability, responsive, and cross-browser testing  
-- **Defect Tracking:** Logging, prioritization, and reporting using real-world bug reports  
-- **Automation Testing:** Basic Selenium scripts to automate repetitive tasks  
-- **Analytical Thinking:** Evaluating issues, identifying risks, and suggesting improvements  
-- **Documentation & Reporting:** Test plans, test cases, and defect reports ready for professional review  
+- **Defect Tracking:** Logging, prioritizing, and analyzing bugs with actionable insights  
+- **Automation:** Basic Selenium scripts to automate critical workflows  
+
 
 ---
 
-## Project Deliverables
+## 🛠 Skills & Tools
+- **Manual Testing:** Test cases, usability, navigation, responsive design  
+- **Defect Tracking:** Jira / GitHub Issues  
+- **Automation:** Selenium WebDriver (Python)  
+- **Browsers Tested:** Chrome, Firefox, Edge  
+- **Documentation:** Test Plan & Defect Reports (Word/Excel)  
+
+---
+
+## 📂 Project Deliverables
 
 | Deliverable | Description |
 |-------------|------------|
 | **Test Plan** | Comprehensive plan covering scope, testing types, entry/exit criteria, and tools |
 | **Test Cases** | 10+ functional, usability, and responsive test scenarios |
-| **Defect Reports** | 5+ detailed defects including severity, priority, steps to reproduce, and business impact |
-| **Selenium Automation Script** | Automated login workflow validating login functionality (optional but included) |
+| **Defect Reports** | 5+ defects with severity, priority, reproduction steps, and business impact |
+| **Selenium Script** | Automated login test validating critical workflow |
 
 ---
 
-## Tools & Technologies
-- **Test Management:** Excel / Google Sheets  
-- **Defect Tracking:** Jira / GitHub Issues  
-- **Automation:** Selenium WebDriver (Python)  
-- **Browsers Tested:** Chrome, Firefox, Edge  
-- **Documentation:** Word, Excel, Markdown  
+## 📝 Resume-Ready Achievements
+- Developed and executed **10+ test cases** for web application functionality, usability, and cross-browser compatibility  
+- Logged and analyzed **5+ defects**, including severity, priority, and reproducibility  
+- Built **Selenium automation scripts** to validate login functionality, demonstrating technical proficiency  
+- Applied **analytical thinking** to identify risks and recommend improvements  
+- Used **Jira/GitHub Issues** to track defects and maintain professional QA documentation  
 
----
