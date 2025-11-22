@@ -2,7 +2,7 @@
 
 Author : Talei Ibhanesebhor
 
-> End-to-end QA and Technology Analyst project demonstrating testing, defect tracking, and automation skills for early-career tech roles.
+> End-to-end QA and Technology Analyst project demonstrating testing, defect tracking, and automation skills with screeenshots. It includes valid/invalid login tests with Python, Selenium, explicit waits, and automated reporting.
 
 ---
 
